@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="seleccionar">
+        <item> </item>
+        <item>Medellín</item>
+        <item>Cali</item>
+        <item>Bogotá</item>
+        <item>Bucaramanga</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+
+    </string-array>
+</resources>
